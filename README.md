@@ -1,1 +1,2 @@
-[Theoretical background information for DRL project.pdf](https://github.com/ShaielVistuch/Verification-of-Deep-Reinforcement-Learning/files/14672693/Theoretical.background.information.for.DRL.project.pdf)
+
+# [DRL project.pdf](https://github.com/ShaielVistuch/Verification-of-Deep-Reinforcement-Learning/files/14672698/DRL.project.pdf)
